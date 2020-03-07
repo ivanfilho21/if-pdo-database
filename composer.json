@@ -1,8 +1,8 @@
 {
     "name": "ivanfilho/database",
     "autoload": {
-        "psr-0" : {
-            "IvanFilho\\Database" : "src"
+        "psr-4" : {
+            "IvanFilho\\Database\\" : "src/"
         }
     }
 }
